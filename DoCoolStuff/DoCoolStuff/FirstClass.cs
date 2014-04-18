@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace DoCoolStuff
 {
-    class FirstClass
+    public class FirstClass
     {
+        public string IDK { get; set; }
+        public FirstClass()
+        {
+            //test23
+        }
     }
 }
