@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace DoCoolStuff
 {
-    class ThirdClass
+    public class ThirdClass
     {
+        // Added Comment
+        // stuff
+        // Third one yo
+        // Lets save this one
     }
 }
